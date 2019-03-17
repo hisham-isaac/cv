@@ -1,7 +1,6 @@
-# Education Template
-- name: University of Essex
-  dates: Graduated Class of 2018
-  qualification: Degree
+- name: "University of Essex"
+  dates: "Graduated Class of 2018"
+  qualification: "Degree"
   quote: >
-  description: | # this will include new lines to allow paragraphs
+  description:
     "Bachelors in Economics"
