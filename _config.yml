@@ -4,27 +4,19 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Hisham
-title: Danish Sales Advisor 
+title: Java Backend Coder 
 
 # Social links
 github_username:  Hisham-isaac
 linkedin_username: hisham-isaac-299ab9180
 
-# About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: pic.jpg
+about_profile_image: DSC01170.JPG
 about_content: "I’m a self-professed geek, with a varied interest that includes; Technology, Entrepreneurship, Economics, Physical activity and nutrition, to mention a few. I would best be described as someone who’s incisively curious about life in general, however small or insignificant the element. I believe that this gives me a rounded approach to learning, and helps me to draw links and parallels between topics that have little in common in order to come up with innovative solution, when trying to solve larger complex problems."
 
   
 
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
-
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
-
 # Education Section
-# educaton_title: Bachelor in Economics.
+'Bachelors degree in Economics.'
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
