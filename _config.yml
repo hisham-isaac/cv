@@ -1,7 +1,3 @@
-# Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
-
 # Personal info
 name: Hisham
 title: Java Backend Coder 
@@ -10,12 +6,12 @@ title: Java Backend Coder
 github_username:  Hisham-isaac
 linkedin_username: hisham-isaac-299ab9180
 
-about_profile_image: DSC01170.JPG
+about_profile_image: DSC01170.JPG 
 about_content: "I’m a self-professed geek, with a varied interest that includes; Technology, Entrepreneurship, Economics, Physical activity and nutrition, to mention a few. I would best be described as someone who’s incisively curious about life in general, however small or insignificant the element. I believe that this gives me a rounded approach to learning, and helps me to draw links and parallels between topics that have little in common in order to come up with innovative solution, when trying to solve larger complex problems."
 
   
 
-# Education Section
+Education Section
 Degree: "Bachelors in Economics."
 
 # More Section
@@ -28,9 +24,6 @@ more_content: | # this will include new lines to allow paragraphs
 # Footer
 footer_show_references: true
 
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
